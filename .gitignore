@@ -49,6 +49,3 @@
 
 # debug information files
 *.dwo
-
-# ignore all
-*
