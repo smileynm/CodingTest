@@ -8,6 +8,10 @@
 # Unignore all dirs
 !*/
 
+# Ignore .vscode
+/.vscode
+
+
 # Prerequisites
 *.d
 
